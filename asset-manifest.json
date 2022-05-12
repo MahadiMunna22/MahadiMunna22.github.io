@@ -1,23 +1,31 @@
 {
   "files": {
     "main.css": "/static/css/main.fe1baea7.css",
-    "main.js": "/static/js/main.37c95202.js",
+    "main.js": "/static/js/main.c25ccc3b.js",
     "static/js/787.8d4efb73.chunk.js": "/static/js/787.8d4efb73.chunk.js",
     "static/media/NTCC Poster.jpg": "/static/media/NTCC Poster.dab805e47537bd7a70ea.jpg",
     "static/media/Thieves_Of_Justice_banner.png": "/static/media/Thieves_Of_Justice_banner.f6a02a69333d8ed5f780.png",
     "static/media/bg1.jpg": "/static/media/bg1.78a00274fb6e27ba931d.jpg",
     "static/media/pro_pic.jpg": "/static/media/pro_pic.563a786a672140846944.jpg",
     "static/media/GOBY24LOGO.png": "/static/media/GOBY24LOGO.d388189a3aa0d970e98d.png",
+    "static/media/1.JPG": "/static/media/1.03541da3559bf98b33bf.JPG",
     "static/media/StudyTour.jpg": "/static/media/StudyTour.9c159e693e381767b272.jpg",
     "static/media/HospitalCabin.JPG": "/static/media/HospitalCabin.8ce22ac47487c6d7d42b.JPG",
+    "static/media/0.JPG": "/static/media/0.c8b6a18a616182b6f964.JPG",
+    "static/media/7.JPG": "/static/media/7.bdd616a246bb64c6801b.JPG",
+    "static/media/4.JPG": "/static/media/4.f5c06b2b08447ec8aabb.JPG",
+    "static/media/2.JPG": "/static/media/2.c8c134476039efc8e0cf.JPG",
+    "static/media/3.JPG": "/static/media/3.7a2c64ecc2cb35058dc9.JPG",
+    "static/media/6.JPG": "/static/media/6.5c5f25120cc69345d7b0.JPG",
     "static/media/FlappyBird.JPG": "/static/media/FlappyBird.419993202ab4fa6eb4fb.JPG",
+    "static/media/5.JPG": "/static/media/5.7b360be6e40d8bbdd0de.JPG",
     "index.html": "/index.html",
     "main.fe1baea7.css.map": "/static/css/main.fe1baea7.css.map",
-    "main.37c95202.js.map": "/static/js/main.37c95202.js.map",
+    "main.c25ccc3b.js.map": "/static/js/main.c25ccc3b.js.map",
     "787.8d4efb73.chunk.js.map": "/static/js/787.8d4efb73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.fe1baea7.css",
-    "static/js/main.37c95202.js"
+    "static/js/main.c25ccc3b.js"
   ]
 }
